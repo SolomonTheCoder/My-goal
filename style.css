@@ -22,12 +22,6 @@ body {
   margin: 0 10px;
 }
 
-#slackProfilePicture img {
-  width: auto;
-  height: auto;
-  border-radius: 5px;
-}
-
 .Profile-detail {
   margin: 0 20px;
 }
