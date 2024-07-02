@@ -18,12 +18,13 @@ body {
 }
 
 #slackProfilePicture {
-  width: 100%;
+  width: auto;
   margin: 0 10px;
 }
 
 #slackProfilePicture img {
-  width: 100%;
+  width: auto;
+  height: auto;
   border-radius: 5px;
 }
 
